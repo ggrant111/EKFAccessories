@@ -11,7 +11,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 150px; 
+    width: 180px; 
     height: 100vh;
     overflow-y: auto;
     background-color: #f4f4f4;
@@ -26,12 +26,49 @@
     color: white;
     border-radius: 20px;
     margin-left: 220px; /* slightly more than the navbar's width to give space */
-    height: 100vh;
+    height: 90vh;
+    max-width: 1000px;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
+    
+    
+}
+.scroll-container::-webkit-scrollbar {
+    display: none;
+  }
+
+img {
+    background-color: dimgray;
+    max-width: 800px;
+    border-radius: 20px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .scroll-section {
     height: 100vh;
     scroll-snap-align: start;
+}
+h2 {
+    font-size: 3rem;
+    margin: 30px;
+}
+
+#logo{
+    background-color: transparent;
+    position: absolute;
+    top: -30px;
+    left: 10px;
+}
+
+p {
+    font-size: 1.25rem;
+    margin-top: 50px;
+    max-width: 800px;
 }

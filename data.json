@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "ResistAll",
+    "name": "Paint and Interior Protection",
     "description": "With a commitment to innovation, we have imbedded technology into our manufacturing process for both exterior and interior surfaces. Over the last ten years, the Company has sold nearly nine million contracts and manages approximately three million warranties on new and preowned vehicles.",
     "price": "$1195",
     "imageUrl": "https://www.caltexus.com/wp-content/uploads/2021/07/RA-NG2-SMALL-300x259.png"
@@ -17,23 +17,31 @@
 
   {
     "id": 3,
-    "name": "Alloy Wheel Rims",
-    "description": "Enhance your car's look with these premium alloy wheel rims.",
-    "price": "$450.00",
-    "imageUrl": "https://example.com/images/wheel_rims.jpg"
+    "name": "B&W Turnoverball",
+    "description": "Instead of worrying about where to store the ball when you're not using it, the Turnoverball let's you store it where you need it.",
+    "price": "$1195",
+    "imageUrl": "https://marvel-b1-cdn.bc0a.com/f00000000129952/www.bwtrailerhitches.com/sites/default/files/kits/images/GNRK1121.jpg",
+    "videoUrl": "https://www.bwtrailerhitches.com/sites/default/files/video-files/turnoverball%2015.4.mp4"
   },
   {
     "id": 4,
-    "name": "Car Seat Covers",
-    "description": "Protect your car seats with our stylish and durable seat covers. Available in various designs.",
-    "price": "$99.99",
-    "imageUrl": "https://example.com/images/seat_covers.jpg"
+    "name": "Wheel Well Liners",
+    "description": "Heavy-duty liners help cover up and shield body-colored parts and numerous underpinnings within the rear wheelhouses",
+    "price": "$499",
+    "imageUrl": "https://accessories.ford.com/s3/ML3Z9927886A_0.jpg"
   },
   {
     "id": 5,
-    "name": "Bluetooth Car Stereo",
-    "description": "Upgrade your car's audio system with our Bluetooth-enabled car stereo. Stream music, answer calls, and more!",
-    "price": "$180.75",
-    "imageUrl": "https://example.com/images/car_stereo.jpg"
+    "name": "Spray On Bed Liner",
+    "description": "Reflex® Spray-On Truck Liners -Reflex spray on bedliners have been developed to give your truck the protection it deserves. The thick coating protects against scratches and dents and helps to prevent rust. They also protect your cargo by creating a non-slip coating that keeps things in place. You can trust Reflex spray on bedliners to withstand the test of time. Reflex comes in a variety of vibrant colors, and the material is well –suited for a variety of applications, not just truck beds.",
+    "price": "$749",
+    "imageUrl": "https://cksprayin.com/wp-content/uploads/2019/10/reflex-sprayin-liners-1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Clear Bra",
+    "description": "Paint Protection Film, or “clearbra” as it is also referred to, is a clear polyurethane film that is applied to painted surfaces of the vehicle to save the vehicle’s factory finish. It is virtually invisible once installed, and will maintain it’s glossy appearance for years to come. We are certified installers of Xpel Paint Protection Films. This durable film will protect any surface it is applied to from chips, scratches, scuffs, and scrapes. It also self heals, so in a case where the film is mildly damaged, the damage will literally disappear in just a few minutes. Imagine driving a car for years without the paint getting destroyed – it will look great, and help to retain the value of your vehicle.",
+    "price": "$999",
+    "imageUrl": "https://blackoutempire.com/wp-content/uploads/2022/09/XPEL-VEHICLE-COVERAGE-OPTIONS-PARTIAL-FRONT-END.jpg"
   }
 ]

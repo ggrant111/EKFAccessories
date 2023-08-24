@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 .navbar {
+    font-size: .75rem;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -15,8 +16,11 @@
     height: 100vh;
     overflow-y: auto;
     background-color: #f4f4f4;
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    
 }
 
 .scroll-container {
@@ -25,9 +29,10 @@
     background-color: black;
     color: white;
     border-radius: 20px;
-    margin-left: 220px; /* slightly more than the navbar's width to give space */
+    margin-left: 200px; /* slightly more than the navbar's width to give space */
+    margin-right: 20px;
     height: 90vh;
-    max-width: 1000px;
+    
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
     
@@ -45,7 +50,7 @@ img {
 
 section {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     text-align: center;
     flex-direction: column;
     align-items: center;
@@ -63,12 +68,20 @@ h2 {
 #logo{
     background-color: transparent;
     position: absolute;
-    top: -30px;
+    top: -60px;
     left: 10px;
+    z-index: -10;
 }
 
 p {
     font-size: 1.25rem;
     margin-top: 50px;
     max-width: 800px;
+}
+a {
+    background-color: slategray;
+    color: aliceblue;
+    padding: 2px;
+    border-radius: 4px;
+    text-align: center;
 }

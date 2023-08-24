@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "ResistAll",
+    "description": "With a commitment to innovation, we have imbedded technology into our manufacturing process for both exterior and interior surfaces. Over the last ten years, the Company has sold nearly nine million contracts and manages approximately three million warranties on new and preowned vehicles.",
+    "price": "$1195",
+    "imageUrl": "https://www.caltexus.com/wp-content/uploads/2021/07/RA-NG2-SMALL-300x259.png"
+  },
+
+  {
+    "id": 2,
+    "name": "Tonneau Cover",
+    "description": "Product Details Keep your valuables safe and your truck protected with the BAK BAKFlip MX4 Aluminum Tonneau Cover\nAdvanced durability, with protection from UV radiation and scratches\nLightweight design, using premier density foam for heavy use\nConstructed from aluminum, with a black flat-matte finish\nCover can be closed while tailgate is up or down\nManufactured in the USA\nComes with a 5-Year Warranty",
+    "price": "$1295",
+    "imageUrl": "https://www.napaonline.com/img/group/main/60/6050_1_md.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Alloy Wheel Rims",
+    "description": "Enhance your car's look with these premium alloy wheel rims.",
+    "price": "$450.00",
+    "imageUrl": "https://example.com/images/wheel_rims.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car Seat Covers",
+    "description": "Protect your car seats with our stylish and durable seat covers. Available in various designs.",
+    "price": "$99.99",
+    "imageUrl": "https://example.com/images/seat_covers.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Car Stereo",
+    "description": "Upgrade your car's audio system with our Bluetooth-enabled car stereo. Stream music, answer calls, and more!",
+    "price": "$180.75",
+    "imageUrl": "https://example.com/images/car_stereo.jpg"
+  }
+]

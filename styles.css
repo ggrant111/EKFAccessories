@@ -1,0 +1,37 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 150px; 
+    height: 100vh;
+    overflow-y: auto;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.scroll-container {
+    margin-top: 35PX;
+    margin-bottom: 35PX;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    margin-left: 220px; /* slightly more than the navbar's width to give space */
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+}
+
+.scroll-section {
+    height: 100vh;
+    scroll-snap-align: start;
+}

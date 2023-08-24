@@ -126,6 +126,7 @@ a:hover {
 
 /* More Info Button Styles */
 .info-btn {
+    font-size: 1.25rem;
     margin-top: 20px;
     padding: 10px 20px;
     background-color: slategray;
